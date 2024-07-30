@@ -1,5 +1,5 @@
 # Data-Cleaning-and-EDA-in-Pandas
-Used Pandas in python to clean data sets, create visualizations and do exploratory data analysis
+
 **Data Cleaning**
 Utilized essential data cleaning techniques in Pandas, including handling duplicates, standardizing formats, and managing missing values.
 
